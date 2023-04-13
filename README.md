@@ -2,9 +2,9 @@
 
 <br/>
 
-🔭 I’m a junior web full-stuck developer.
+🔭 I’m a junior web full-stack developer.
 
-🌱 I’m currently learning php with laravel.
+🌱 I’m currently looking for a job.
 
 📫 How to reach me: estherdlz1215@gmail.com
 
